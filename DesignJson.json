@@ -1,60 +1,52 @@
 {
-    "Items":[
-    	{
-    		"Name": "Design 1",
-    		"BundleId": "1Ok35UeiUXFOkkmisTHendtHHLY43fSYQ",
-    		"ThumbnailId": "1VW2nZ66SR5C",
-    		"ThumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
-    		"DesignBundleURL": "https://drive.google.com/uc?export=download&id=1Ok35UeiUXFOkkmisTHendtHHLY43fSYQ"
-    	},
-    	{
-    		"Name": "Design 2",
-    		"BundleId": "1an8a-R-Eu-WnEgqFLHxWTzSAci673TNw",
-    		"ThumbnailId": "2VW2nZ66SR5C",
-    		"ThumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
-    		"DesignBundleURL": "https://drive.google.com/uc?export=download&id=1an8a-R-Eu-WnEgqFLHxWTzSAci673TNw"
-    	},
-    	{
-    		"Name": "Design 3",
-    		"BundleId": "1g3MONCd66toNGxl8aX6Yr3xcbTvyqlur",
-		    "ThumbnailId": "3VW2nZ66SR5C",
-    		"ThumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
-    		"DesignBundleURL": "https://drive.google.com/uc?export=download&id=1g3MONCd66toNGxl8aX6Yr3xcbTvyqlur"
-    	},
-    	{
-    		"Name": "Design 4",
-    		"BundleId": "1fhK4cTidM_Vpb3gpmlp1VdbNw4epPiA9",
-    		"ThumbnailId": "4VW2nZ66SR5C",
-    		"ThumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
-    		"DesignBundleURL": "https://drive.google.com/uc?export=download&id=1fhK4cTidM_Vpb3gpmlp1VdbNw4epPiA9"
-    	},
-    	{
-    		"Name": "Design 5",
-    		"BundleId": "1HmC0_YWFHy5V2r0ZQPI_C6jOtNd8G_Nj",
-    		"ThumbnailId": "5VW2nZ66SR5C",
-    		"ThumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
-    		"DesignBundleURL": "https://drive.google.com/uc?export=download&id=1HmC0_YWFHy5V2r0ZQPI_C6jOtNd8G_Nj"
-    	},
-    	{
-    		"Name": "Design 6",
-    		"BundleId": "1pjFYoaAe0fQZNziu-VEZ4we_PFhp3T26",
-    		"ThumbnailId": "6VW2nZ66SR5C",
-    		"ThumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
-    		"DesignBundleURL": "https://drive.google.com/uc?export=download&id=1pjFYoaAe0fQZNziu-VEZ4we_PFhp3T26"
-    	},
-    	{
-    		"Name": "Design 7",
-    		"BundleId": "1Y9vQtucK-JwOXKu_dRvAB-yOMglOe0wP",
-		    "ThumbnailId": "7VW2nZ66SR5C",
-    		"ThumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
-    		"DesignBundleURL": "https://drive.google.com/uc?export=download&id=1Y9vQtucK-JwOXKu_dRvAB-yOMglOe0wP"
-    	},
-    	{
-    		"Name": "Design 8",
-    		"BundleId": "1STab1g1iLhHizUR-bcvaoV_6E4Ech4LE",
-    		"ThumbnailId": "8VW2nZ66SR5C",
-    		"ThumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
-    		"DesignBundleURL": "https://drive.google.com/uc?export=download&id=1STab1g1iLhHizUR-bcvaoV_6E4Ech4LE"
-    	}
-    ]
+	"Items": [
+		{
+			"name": "Design 1",
+			"id": "1VW2nZ66SR5C",
+			"thumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
+			"designBundleURL": "https://drive.google.com/uc?export=download&id=1Ok35UeiUXFOkkmisTHendtHHLY43fSYQ"
+		},
+		{
+			"name": "Design 2",
+			"id": "2VW2nZ66SR5C",
+			"thumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
+			"designBundleURL": "https://drive.google.com/uc?export=download&id=1an8a-R-Eu-WnEgqFLHxWTzSAci673TNw"
+		},
+		{
+			"name": "Design 3",
+			"id": "3VW2nZ66SR5C",
+			"thumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
+			"designBundleURL": "https://drive.google.com/uc?export=download&id=1g3MONCd66toNGxl8aX6Yr3xcbTvyqlur"
+		},
+		{
+			"name": "Design 4",
+			"id": "4VW2nZ66SR5C",
+			"thumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
+			"designBundleURL": "https://drive.google.com/uc?export=download&id=1fhK4cTidM_Vpb3gpmlp1VdbNw4epPiA9"
+		},
+		{
+			"name": "Design 5",
+			"id": "5VW2nZ66SR5C",
+			"thumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
+			"designBundleURL": "https://drive.google.com/uc?export=download&id=1HmC0_YWFHy5V2r0ZQPI_C6jOtNd8G_Nj"
+		},
+		{
+			"name": "Design 6",
+			"id": "6VW2nZ66SR5C",
+			"thumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
+			"designBundleURL": "https://drive.google.com/uc?export=download&id=1pjFYoaAe0fQZNziu-VEZ4we_PFhp3T26"
+		},
+		{
+			"name": "Design 7",
+			"id": "7VW2nZ66SR5C",
+			"thumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
+			"designBundleURL": "https://drive.google.com/uc?export=download&id=1Y9vQtucK-JwOXKu_dRvAB-yOMglOe0wP"
+		},
+		{
+			"name": "Design 8",
+			"id": "8VW2nZ66SR5C",
+			"thumbnailURL": "https://drive.google.com/uc?export=download&id=1UMT4mzPBHj4-Vz8xDyWlTVW2nZ66SR5C",
+			"designBundleURL": "https://drive.google.com/uc?export=download&id=1STab1g1iLhHizUR-bcvaoV_6E4Ech4LE"
+		}
+	]
 }
