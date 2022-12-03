@@ -2,51 +2,73 @@
 	"Items": [
 		{
 			"name": "Design 1",
-			"id": "1VW2nZ66SR5C",
+			"id": "01",
 			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design01"
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design01",
+			"category": "square"
 		},
 		{
 			"name": "Design 2",
-			"id": "2VW2nZ66SR5C",
+			"id": "02",
 			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design 2"
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design02",
+			"category": "square"
 		},
 		{
 			"name": "Design 3",
-			"id": "3VW2nZ66SR5C",
+			"id": "03",
 			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design 3"
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design03",
+			"category": "square"
 		},
 		{
 			"name": "Design 4",
-			"id": "4VW2nZ66SR5C",
+			"id": "04",
 			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design 4"
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design04",
+			"category": "square"
 		},
 		{
 			"name": "Design 5",
-			"id": "5VW2nZ66SR5C",
+			"id": "05",
 			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design 5"
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design05",
+			"category": "square"
 		},
 		{
 			"name": "Design 6",
-			"id": "6VW2nZ66SR5C",
+			"id": "06",
 			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design 6"
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design06",
+			"category": "square"
 		},
 		{
 			"name": "Design 7",
-			"id": "7VW2nZ66SR5C",
+			"id": "07",
 			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design 7"
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design07",
+			"category": "square"
 		},
 		{
 			"name": "Design 8",
-			"id": "8VW2nZ66SR5C",
+			"id": "08",
 			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design 8"
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design08",
+			"category": "square"
+		},
+		{
+			"name": "Design 9",
+			"id": "09",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design09",
+			"category": "l"
+		},
+		{
+			"name": "Design 10",
+			"id": "10",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
+			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design10",
+			"category": "l"
 		}
 	]
 }
