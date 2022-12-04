@@ -1,74 +1,106 @@
 {
-	"Items": [
+	"ResponseCode": 1,
+	"Message": "Success",
+	"Data": [
 		{
-			"name": "Design 1",
-			"id": "01",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design01",
-			"category": "square"
+			"designId": 1,
+			"designName": "Design 01",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "Square",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design01",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 2",
-			"id": "02",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design02",
-			"category": "square"
+			"designId": 2,
+			"designName": "Design 02",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "Square",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design02",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 3",
-			"id": "03",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design03",
-			"category": "square"
+			"designId": 3,
+			"designName": "Design 03",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "Square",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design03",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 4",
-			"id": "04",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design04",
-			"category": "square"
+			"designId": 4,
+			"designName": "Design 04",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "Square",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design04",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 5",
-			"id": "05",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design05",
-			"category": "square"
+			"designId": 5,
+			"designName": "Design 05",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "Square",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design05",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 6",
-			"id": "06",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design06",
-			"category": "square"
+			"designId": 6,
+			"designName": "Design 06",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "Square",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design06",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 7",
-			"id": "07",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design07",
-			"category": "square"
+			"designId": 7,
+			"designName": "Design 07",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "Square",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design07",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 8",
-			"id": "08",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design08",
-			"category": "square"
+			"designId": 8,
+			"designName": "Design 08",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "Square",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design08",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 9",
-			"id": "09",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design09",
-			"category": "l"
+			"designId": 9,
+			"designName": "Design 09",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "l",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design09",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		},
 		{
-			"name": "Design 10",
-			"id": "10",
-			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg",
-			"designBundleURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design10",
-			"category": "l"
+			"designId": 10,
+			"designName": "Design 10",
+			"fileName": "New_Test.unity3d",
+			"fileSize": 1332,
+			"thumbnail": "SG Gypsum Cloud.png",
+			"category": "l",
+			"designURL": "https://manas-95.github.io/arjson.github.io/assetBundles/design10",
+			"thumbnailURL": "https://manas-95.github.io/arjson.github.io/thumbnails/Action Game.jpg"
 		}
 	]
 }
